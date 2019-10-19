@@ -42,5 +42,7 @@ function run(){
 }
 run(1, 2, 3, 4, 5)// output is 10
 
+//test
+
 
 
